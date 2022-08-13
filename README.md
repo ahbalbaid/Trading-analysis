@@ -15,3 +15,6 @@ Then in task 2,
   I used taylor series to predict the stock by using 10 models with different degrees of polynomials. These predictions will be smootheds and marged together to get the final prediction for 3 time intervals.
   
 ![unnamed-2](https://user-images.githubusercontent.com/90864132/182800526-a6cb63c5-23f9-4f23-ba5b-ea245863f63c.jpg)
+
+# trading-view
+
