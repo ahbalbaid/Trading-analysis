@@ -1,5 +1,5 @@
 # Trading-bot
-This was an old project that I made to try to predict the stock market using taylor series
+In this project that I am trying to predict the stock market using taylor series
 the goal of this project was to build a program for digital trading
 
 First in task 1,
